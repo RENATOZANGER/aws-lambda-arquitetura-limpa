@@ -1,0 +1,7 @@
+pytest
+pytest-cov
+pymysql
+moto
+boto3
+requests_mock
+requests
